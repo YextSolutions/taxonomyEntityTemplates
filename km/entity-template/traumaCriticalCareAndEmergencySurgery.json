@@ -1,0 +1,27 @@
+{
+  "$id": "traumaCriticalCareAndEmergencySurgery",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-915",
+      "CON-1851",
+      "CON-1852"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12736"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15638",
+      "REAS-15639",
+      "REAS-15640",
+      "REAS-15641"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-58"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Trauma, Critical Care and Emergency Surgery"
+}

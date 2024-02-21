@@ -1,0 +1,28 @@
+{
+  "$id": "neurodevelopmentalDisabilities",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-4823",
+      "CON-4824",
+      "CON-4827",
+      "CON-4832",
+      "CON-4833",
+      "CON-4836",
+      "CON-4839"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13838"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15801"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-118"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Neurodevelopmental Disabilities"
+}

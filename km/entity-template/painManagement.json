@@ -1,0 +1,67 @@
+{
+  "$id": "painManagement",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-387",
+      "CON-388",
+      "CON-389",
+      "CON-1501",
+      "CON-5511",
+      "CON-6734",
+      "CON-6736",
+      "CON-6740",
+      "CON-6741",
+      "CON-6742",
+      "CON-12015",
+      "CON-937"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12575",
+      "PROC-12596",
+      "PROC-12603",
+      "PROC-13893",
+      "PROC-13903",
+      "PROC-14442",
+      "PROC-14443",
+      "PROC-14445",
+      "PROC-14451",
+      "PROC-14455",
+      "PROC-14456",
+      "PROC-14458",
+      "PROC-14459",
+      "PROC-14460",
+      "PROC-14461",
+      "PROC-14462",
+      "PROC-14463",
+      "PROC-14464",
+      "PROC-14465",
+      "PROC-14466",
+      "PROC-14467",
+      "PROC-14468",
+      "PROC-14469",
+      "PROC-14470",
+      "PROC-14471",
+      "PROC-14472",
+      "PROC-14473",
+      "PROC-14475",
+      "PROC-14476",
+      "PROC-14477",
+      "PROC-14478",
+      "PROC-15388",
+      "PROC-6388"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15884",
+      "REAS-15885",
+      "REAS-15886"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-54"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Pain Management"
+}

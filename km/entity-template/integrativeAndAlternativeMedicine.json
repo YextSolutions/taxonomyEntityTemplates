@@ -1,0 +1,30 @@
+{
+  "$id": "integrativeAndAlternativeMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-1165",
+      "CON-1166",
+      "CON-2735"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12615",
+      "PROC-12616",
+      "PROC-12617",
+      "PROC-12618",
+      "PROC-12619",
+      "PROC-12620",
+      "PROC-13297"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15554"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-499"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Integrative and Alternative Medicine"
+}

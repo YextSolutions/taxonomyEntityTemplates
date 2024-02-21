@@ -1,0 +1,37 @@
+{
+  "$id": "anesthesiology",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-5065"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12575",
+      "PROC-12683",
+      "PROC-12686",
+      "PROC-12689",
+      "PROC-12690",
+      "PROC-12691",
+      "PROC-12692",
+      "PROC-12693",
+      "PROC-12695",
+      "PROC-12696",
+      "PROC-12697",
+      "PROC-12698",
+      "PROC-12699",
+      "PROC-13857",
+      "PROC-1500"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15582",
+      "REAS-15583"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-3"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Anesthesiology"
+}

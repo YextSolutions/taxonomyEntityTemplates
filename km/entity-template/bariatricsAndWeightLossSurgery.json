@@ -1,0 +1,46 @@
+{
+  "$id": "bariatricsAndWeightLossSurgery",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-1525",
+      "CON-3118",
+      "CON-1164"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12614",
+      "PROC-12645",
+      "PROC-12646",
+      "PROC-12654",
+      "PROC-12714",
+      "PROC-12716",
+      "PROC-12718",
+      "PROC-12719",
+      "PROC-12721",
+      "PROC-12723",
+      "PROC-12724",
+      "PROC-12727",
+      "PROC-12728",
+      "PROC-12729"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15589",
+      "REAS-15591",
+      "REAS-15592",
+      "REAS-15593",
+      "REAS-15594",
+      "REAS-15595",
+      "REAS-15596",
+      "REAS-15719",
+      "REAS-15720",
+      "REAS-15765"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-47"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Bariatrics and Weight-Loss Surgery"
+}

@@ -1,0 +1,31 @@
+{
+  "$id": "orthodontics",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-6011",
+      "CON-1880",
+      "CON-1893",
+      "CON-1912",
+      "CON-1918"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14297",
+      "PROC-14298",
+      "PROC-14293"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15869",
+      "REAS-15870",
+      "REAS-15872",
+      "REAS-15876"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-8333"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Orthodontics"
+}

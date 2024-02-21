@@ -1,0 +1,68 @@
+{
+  "$id": "interventionalRadiology",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-5236",
+      "CON-1135",
+      "CON-12502",
+      "CON-12499"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13924",
+      "PROC-13708",
+      "PROC-13652",
+      "PROC-13710",
+      "PROC-13711",
+      "PROC-14530",
+      "PROC-13698",
+      "PROC-13153",
+      "PROC-13158",
+      "PROC-15092",
+      "PROC-14549",
+      "PROC-12607",
+      "PROC-13146",
+      "PROC-13162",
+      "PROC-13712",
+      "PROC-13714",
+      "PROC-13715",
+      "PROC-13717",
+      "PROC-13718",
+      "PROC-13719",
+      "PROC-13724",
+      "PROC-13725",
+      "PROC-13727",
+      "PROC-13730",
+      "PROC-13732",
+      "PROC-13733",
+      "PROC-13737",
+      "PROC-13740",
+      "PROC-13741",
+      "PROC-14551",
+      "PROC-14634",
+      "PROC-14850",
+      "PROC-15126",
+      "PROC-15137",
+      "PROC-15138",
+      "PROC-15187",
+      "PROC-15197",
+      "PROC-15204",
+      "PROC-15205",
+      "PROC-15293",
+      "PROC-15528",
+      "PROC-15529"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15788",
+      "REAS-15789",
+      "REAS-12501"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-126"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Interventional Radiology"
+}

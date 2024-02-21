@@ -1,0 +1,22 @@
+{
+  "$id": "vascularMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-12495",
+      "CON-12496"
+    ],
+    "taxonomy_relatedProcedures": [],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-16015",
+      "REAS-16016"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-51"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Vascular Medicine"
+}

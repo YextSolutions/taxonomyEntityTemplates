@@ -1,0 +1,27 @@
+{
+  "$id": "surgicalOncology",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-12019",
+      "CON-12020"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-15327",
+      "PROC-15328",
+      "PROC-15329",
+      "PROC-15330",
+      "PROC-15333",
+      "PROC-15334",
+      "PROC-15336"
+    ],
+    "taxonomy_relatedReasonsForVisit": [],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-42"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Surgical Oncology"
+}

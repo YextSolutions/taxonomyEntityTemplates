@@ -1,0 +1,37 @@
+{
+  "$id": "pathologyAndLaboratoryMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-230",
+      "CON-2145",
+      "CON-2146",
+      "CON-6745",
+      "CON-6746",
+      "PROC-11515",
+      "CON-12321"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14439",
+      "PROC-14479",
+      "PROC-14480",
+      "PROC-14482",
+      "PROC-14483",
+      "PROC-14484",
+      "PROC-14848"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15662",
+      "REAS-15888",
+      "REAS-15889",
+      "REAS-16024"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-30"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Pathology and Laboratory Medicine"
+}

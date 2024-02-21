@@ -1,0 +1,66 @@
+{
+  "$id": "physicalMedicineAndRehabilitation",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-12241",
+      "CON-12059",
+      "CON-12487",
+      "CON-1147",
+      "CON-388",
+      "CON-12490",
+      "CON-4935",
+      "CON-11518",
+      "CON-12225",
+      "CON-11516",
+      "CON-7157",
+      "CON-1134",
+      "CON-12235",
+      "CON-12492",
+      "CON-5124",
+      "CON-12493",
+      "CON-11520",
+      "CON-11521",
+      "CON-12015",
+      "CON-11522",
+      "CON-12238",
+      "CON-937",
+      "CON-11527",
+      "CON-7154",
+      "CON-12494",
+      "CON-11529",
+      "CON-11532",
+      "CON-11533",
+      "CON-7166",
+      "CON-12224",
+      "CON-5209"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-14849",
+      "PROC-15220",
+      "PROC-12619",
+      "PROC-15223",
+      "PROC-12901",
+      "PROC-12620",
+      "PROC-15221",
+      "PROC-14436",
+      "PROC-14855",
+      "PROC-14856",
+      "PROC-14859",
+      "PROC-12682",
+      "PROC-14860",
+      "PROC-14861"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15950",
+      "REAS-14858"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-33"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Physical Medicine and Rehabilitation"
+}

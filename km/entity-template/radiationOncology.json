@@ -1,0 +1,46 @@
+{
+  "$id": "radiationOncology",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-11999",
+      "CON-12000",
+      "CON-12003",
+      "CON-12004",
+      "CON-929",
+      "CON-1140"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12609",
+      "PROC-14440",
+      "PROC-15037",
+      "PROC-15042",
+      "PROC-15043",
+      "PROC-15044",
+      "PROC-15046",
+      "PROC-15049",
+      "PROC-15051",
+      "PROC-15053",
+      "PROC-15056",
+      "PROC-15057",
+      "PROC-15058",
+      "PROC-15061",
+      "PROC-15062",
+      "PROC-15065"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15972",
+      "REAS-15973",
+      "REAS-15974",
+      "REAS-15975",
+      "REAS-15976"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-37"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Radiation Oncology"
+}

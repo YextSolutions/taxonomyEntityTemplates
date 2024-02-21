@@ -1,0 +1,57 @@
+{
+  "$id": "geriatricMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-5571",
+      "CON-3735",
+      "CON-330",
+      "CON-3737",
+      "CON-3738",
+      "CON-6568",
+      "CON-3740",
+      "CON-1560",
+      "CON-3876",
+      "CON-3742",
+      "CON-984",
+      "CON-3744",
+      "CON-3746",
+      "CON-3747",
+      "CON-3749",
+      "CON-6569",
+      "CON-3752",
+      "CON-6307",
+      "CON-3754",
+      "CON-6319",
+      "CON-4459",
+      "CON-3757",
+      "CON-3761",
+      "CON-5817",
+      "CON-1721",
+      "CON-5291",
+      "CON-3762",
+      "CON-3959",
+      "CON-3764",
+      "CON-5294",
+      "CON-3770",
+      "CON-3772",
+      "CON-3774"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13293",
+      "PROC-13480",
+      "PROC-3748"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15550",
+      "REAS-15551"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-19"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Geriatric Medicine"
+}

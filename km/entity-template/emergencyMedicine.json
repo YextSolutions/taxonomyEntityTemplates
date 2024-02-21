@@ -1,0 +1,41 @@
+{
+  "$id": "emergencyMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-206",
+      "CON-2251",
+      "CON-2255",
+      "CON-2296",
+      "CON-2305",
+      "CON-2307",
+      "CON-2314",
+      "CON-2342",
+      "CON-2350",
+      "CON-2421",
+      "CON-2698",
+      "CON-2700",
+      "CON-4915",
+      "CON-1612",
+      "CON-4050"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13218",
+      "PROC-13219",
+      "PROC-13220",
+      "PROC-13221"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15667",
+      "REAS-15668",
+      "REAS-15838"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-11"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Emergency Medicine"
+}

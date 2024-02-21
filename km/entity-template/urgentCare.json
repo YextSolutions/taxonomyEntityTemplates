@@ -1,0 +1,18 @@
+{
+  "$id": "urgentCare",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [],
+    "taxonomy_relatedProcedures": [
+      "PROC-13221"
+    ],
+    "taxonomy_relatedReasonsForVisit": [],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-44"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Urgent Care"
+}

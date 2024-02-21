@@ -1,0 +1,59 @@
+{
+  "$id": "colonAndRectalSurgery",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-528",
+      "CON-1824",
+      "CON-1825",
+      "CON-5519",
+      "CON-1830",
+      "CON-1831",
+      "CON-1833",
+      "CON-6667",
+      "CON-6669",
+      "CON-1835",
+      "CON-1837",
+      "CON-1838",
+      "CON-1839"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12736",
+      "PROC-12903",
+      "PROC-12904",
+      "PROC-12907",
+      "PROC-12911",
+      "PROC-12912",
+      "PROC-12913",
+      "PROC-12914",
+      "PROC-12915",
+      "PROC-12916",
+      "PROC-12919",
+      "PROC-12922",
+      "PROC-12923",
+      "PROC-12929",
+      "PROC-12931",
+      "PROC-12932",
+      "PROC-12933",
+      "PROC-12936",
+      "PROC-12937",
+      "PROC-12938",
+      "PROC-12939",
+      "PROC-13377",
+      "PROC-12641",
+      "PROC-12663"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15631",
+      "REAS-15632",
+      "REAS-15633"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-16"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Colon and Rectal Surgery"
+}

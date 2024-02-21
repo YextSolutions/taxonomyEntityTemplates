@@ -1,0 +1,39 @@
+{
+  "$id": "hepatopancreaticobiliarySurgery",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-3561",
+      "CON-4848",
+      "CON-4190",
+      "CON-4200",
+      "CON-515",
+      "CON-4191",
+      "CON-4197",
+      "CON-4212",
+      "CON-4213",
+      "CON-725",
+      "CON-501",
+      "CON-726",
+      "CON-727",
+      "CON-728",
+      "CON-729",
+      "CON-5535",
+      "CON-4204",
+      "CON-4223",
+      "CON-818"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13753",
+      "PROC-13754"
+    ],
+    "taxonomy_relatedReasonsForVisit": [],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-114"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Hepatopancreaticobiliary Surgery"
+}

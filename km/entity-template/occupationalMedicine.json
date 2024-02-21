@@ -1,0 +1,23 @@
+{
+  "$id": "occupationalMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-5505",
+      "CON-5507",
+      "CON-5508",
+      "CON-5509"
+    ],
+    "taxonomy_relatedProcedures": [],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15824"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-108"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Occupational Medicine"
+}

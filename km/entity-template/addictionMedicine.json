@@ -1,0 +1,61 @@
+{
+  "$id": "addictionMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-253",
+      "CON-261",
+      "CON-267",
+      "CON-268",
+      "CON-269",
+      "CON-271",
+      "CON-272",
+      "CON-276",
+      "CON-278",
+      "CON-279",
+      "CON-280",
+      "CON-281",
+      "CON-283",
+      "CON-284",
+      "CON-285",
+      "CON-286",
+      "CON-4364",
+      "CON-287",
+      "CON-288",
+      "CON-259",
+      "CON-289",
+      "CON-294",
+      "CON-296",
+      "CON-299",
+      "CON-301",
+      "CON-302",
+      "CON-303",
+      "CON-304",
+      "CON-306",
+      "CON-307",
+      "CON-308",
+      "CON-125901"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12584",
+      "PROC-12586",
+      "PROC-12587",
+      "PROC-12589"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15532",
+      "REAS-15535",
+      "REAS-15536",
+      "REAS-15539",
+      "REAS-15548",
+      "REAS-15534"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-2621"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Addiction Medicine"
+}

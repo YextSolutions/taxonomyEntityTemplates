@@ -1,0 +1,71 @@
+{
+  "$id": "neonatalPerinatalMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-372",
+      "CON-1860",
+      "CON-4598",
+      "CON-4600",
+      "CON-4602",
+      "CON-4607",
+      "CON-4608",
+      "CON-4610",
+      "CON-4615",
+      "CON-4616",
+      "CON-4621",
+      "CON-4632",
+      "CON-4634",
+      "CON-4639",
+      "CON-4640",
+      "CON-4642",
+      "CON-4643",
+      "CON-4647",
+      "CON-4648",
+      "CON-4649",
+      "CON-4650",
+      "CON-4651",
+      "CON-4652",
+      "CON-4658",
+      "CON-4660",
+      "CON-4662",
+      "CON-4663",
+      "CON-4664",
+      "CON-4668",
+      "CON-4669",
+      "CON-11178",
+      "CON-1694",
+      "CON-1769",
+      "CON-1770",
+      "CON-916",
+      "CON-917",
+      "CON-918",
+      "CON-919",
+      "CON-920",
+      "CON-921"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13793",
+      "PROC-13794",
+      "PROC-13796",
+      "PROC-13797",
+      "PROC-13798",
+      "PROC-13800",
+      "PROC-13801"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15794",
+      "REAS-15795",
+      "REAS-15796",
+      "REAS-15797",
+      "REAS-15939"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-68"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Neonatal-Perinatal Medicine"
+}

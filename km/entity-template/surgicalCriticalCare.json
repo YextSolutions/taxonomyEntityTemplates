@@ -1,0 +1,22 @@
+{
+  "$id": "surgicalCriticalCare",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-915",
+      "CON-1851",
+      "CON-1852"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12736"
+    ],
+    "taxonomy_relatedReasonsForVisit": [],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-4162"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Surgical Critical Care"
+}

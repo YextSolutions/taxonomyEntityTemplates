@@ -1,0 +1,44 @@
+{
+  "$id": "transplant",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-12322",
+      "CON-12324"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13747",
+      "PROC-13748",
+      "PROC-13749",
+      "PROC-13751",
+      "PROC-13752",
+      "PROC-13784",
+      "PROC-13802",
+      "PROC-15364",
+      "PROC-15365",
+      "PROC-15366",
+      "PROC-15369",
+      "PROC-15370",
+      "PROC-15372",
+      "PROC-15373",
+      "PROC-15378",
+      "PROC-15380"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15790",
+      "REAS-15998",
+      "REAS-15999",
+      "REAS-16000",
+      "REAS-16001",
+      "REAS-16002",
+      "REAS-16003"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-43"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Transplant"
+}

@@ -1,0 +1,31 @@
+{
+  "$id": "nutrition",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-5300",
+      "CON-5306",
+      "CON-5310"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13991",
+      "PROC-13992",
+      "PROC-13993"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15812",
+      "REAS-15813",
+      "REAS-15814",
+      "REAS-15815",
+      "REAS-15816",
+      "REAS-5305"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-49"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Nutrition"
+}

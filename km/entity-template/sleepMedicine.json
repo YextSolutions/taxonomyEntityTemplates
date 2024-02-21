@@ -1,0 +1,58 @@
+{
+  "$id": "sleepMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-12166",
+      "CON-12169",
+      "CON-12173",
+      "CON-12175",
+      "CON-12180",
+      "CON-12182",
+      "CON-12183",
+      "CON-12185",
+      "CON-12186",
+      "CON-12187",
+      "CON-12189",
+      "CON-12191",
+      "CON-12195",
+      "CON-12198",
+      "CON-12199",
+      "CON-12201",
+      "CON-12202",
+      "CON-12205",
+      "CON-12207",
+      "CON-12217",
+      "CON-12220",
+      "CON-5158",
+      "CON-6718"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-15274",
+      "PROC-15275",
+      "PROC-15277",
+      "PROC-15281",
+      "PROC-15282",
+      "PROC-15286",
+      "PROC-15287",
+      "PROC-15288",
+      "PROC-15289",
+      "PROC-15290",
+      "PROC-15291",
+      "PROC-15292",
+      "PROC-15295",
+      "PROC-15296",
+      "PROC-15297"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15981"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-53"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Sleep Medicine"
+}

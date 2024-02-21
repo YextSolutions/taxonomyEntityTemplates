@@ -1,0 +1,23 @@
+{
+  "$id": "hematologyOncology",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-4006",
+      "CON-4086",
+      "CON-4089",
+      "CON-4090"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-13608"
+    ],
+    "taxonomy_relatedReasonsForVisit": [],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-4169"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Hematology Oncology"
+}

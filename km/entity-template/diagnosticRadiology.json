@@ -1,0 +1,49 @@
+{
+  "$id": "diagnosticRadiology",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-4399",
+      "CON-4405",
+      "CON-1146"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-15214",
+      "PROC-14619",
+      "PROC-15525",
+      "PROC-14617",
+      "PROC-14616",
+      "PROC-14607",
+      "PROC-14606",
+      "PROC-14734",
+      "PROC-13734",
+      "PROC-14605",
+      "PROC-15167",
+      "PROC-15162",
+      "PROC-14577",
+      "PROC-14566",
+      "PROC-15135",
+      "PROC-15132",
+      "PROC-13981",
+      "PROC-15118",
+      "PROC-15213",
+      "PROC-15077",
+      "PROC-13150",
+      "PROC-14526",
+      "PROC-14525",
+      "PROC-13973",
+      "PROC-14524",
+      "PROC-14523"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15895"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-125"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Diagnostic Radiology"
+}

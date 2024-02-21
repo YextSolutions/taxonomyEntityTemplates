@@ -1,0 +1,16 @@
+{
+  "$id": "clinicalPharmacology",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [],
+    "taxonomy_relatedProcedures": [],
+    "taxonomy_relatedReasonsForVisit": [],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-13445"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Clinical Pharmacology"
+}

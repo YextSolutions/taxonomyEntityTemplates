@@ -1,0 +1,58 @@
+{
+  "$id": "childAndAdolescentPsychiatryAndPsychology",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-255",
+      "CON-256",
+      "CON-257",
+      "CON-258",
+      "CON-9687",
+      "CON-9705",
+      "CON-9741",
+      "CON-9752",
+      "CON-9762",
+      "CON-9801",
+      "CON-9806",
+      "CON-9818",
+      "CON-9876",
+      "CON-9877",
+      "CON-9878",
+      "CON-9901",
+      "CON-9924",
+      "CON-9926",
+      "CON-9930",
+      "CON-9931",
+      "CON-1168",
+      "CON-1169",
+      "CON-214",
+      "CON-215",
+      "CON-218",
+      "CON-219",
+      "CON-221",
+      "CON-1079"
+    ],
+    "taxonomy_relatedProcedures": [
+      "PROC-12583",
+      "PROC-14770",
+      "PROC-14772"
+    ],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15530",
+      "REAS-15556",
+      "REAS-15906",
+      "REAS-15907",
+      "REAS-15910",
+      "REAS-15912",
+      "REAS-15914",
+      "REAS-15915"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-64"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Child and Adolescent Psychiatry and Psychology"
+}

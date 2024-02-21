@@ -1,0 +1,28 @@
+{
+  "$id": "hospiceAndPalliativeMedicine",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "taxonomy_relatedConditions": [
+      "CON-4235",
+      "CON-4236",
+      "CON-4237",
+      "CON-4238",
+      "CON-4241",
+      "CON-4242"
+    ],
+    "taxonomy_relatedProcedures": [],
+    "taxonomy_relatedReasonsForVisit": [
+      "REAS-15775",
+      "REAS-15776",
+      "REAS-4234",
+      "REAS-4239"
+    ],
+    "taxonomy_relatedSpecialties": [
+      "SPEC-20"
+    ]
+  },
+  "entityTypes": [
+    "healthcareProfessional"
+  ],
+  "name": "Hospice and Palliative Medicine"
+}
